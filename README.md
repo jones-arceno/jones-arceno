@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {seu nome}!
+## Olá, meu nome é Jones!
 
 Faça uma breve apresentação sobre você e a sua stack.
 
