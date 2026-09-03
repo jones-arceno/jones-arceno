@@ -1,10 +1,21 @@
-## Olá, meu nome é Jones!
+## Olá, meu nome é Jones! 👋
 
-Faça uma breve apresentação sobre você e a sua stack.
+Sou estudante de Ciência da Computação e atualmente estou focado em desenvolvimento Backend com Java e Spring Boot.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+💻 Minha stack atual:
+- Java
+- Spring Boot
+- APIs REST
+- Spring Data JPA
+- Hibernate
+- PostgreSQL
+- SQL
+- Git e GitHub
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+🔭 Projeto em destaque:
+Atualmente desenvolvo o **Kodis**, um sistema de gestão empresarial desenvolvido com Java e Spring Boot, com funcionalidades como login, dashboard, cadastro e consulta de usuários e produtos, integração com PostgreSQL e arquitetura em camadas.
+
+💬 Estou sempre buscando aprender mais sobre desenvolvimento Backend e aprimorar minhas habilidades com Java. Fique à vontade para entrar em contato, trocar ideias ou fazer perguntas!
 
 ---
 
