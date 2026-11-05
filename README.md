@@ -38,7 +38,7 @@ func main() {
 
 ### Languages & Development
 
-<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs, html,css" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,html,css" />
 
 ### Database & Tools
 
